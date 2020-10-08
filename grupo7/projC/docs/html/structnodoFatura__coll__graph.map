@@ -1,0 +1,5 @@
+<map id="nodoFatura" name="nodoFatura">
+<area shape="rect" id="node2" href="$structprodutosFilial.html" title="Estrutura que guarda o registo das vendas de um produto, num dado modo e numa dada filial..." alt="" coords="42,109,141,136"/>
+<area shape="rect" id="node3" href="$structint__np.html" title="Estrutura que guarda os valores totais de unidades vendidas ou vendas num dado mês. " alt="" coords="5,5,63,32"/>
+<area shape="rect" id="node4" href="$structfloat__np.html" title="Estrutura que guarda os valores totais de faturação num dado mês. " alt="" coords="116,5,184,32"/>
+</map>

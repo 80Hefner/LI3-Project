@@ -1,0 +1,4 @@
+<map id="produtosCliente" name="produtosCliente">
+<area shape="rect" id="node2" href="$structint__np.html" title="Estrutura que guarda os valores totais de unidades vendidas ou vendas num dado mês. " alt="" coords="5,5,63,32"/>
+<area shape="rect" id="node3" href="$structfloat__np.html" title="Estrutura que guarda os valores totais de faturação num dado mês. " alt="" coords="180,5,248,32"/>
+</map>

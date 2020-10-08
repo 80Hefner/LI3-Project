@@ -1,0 +1,6 @@
+<map id="sgv" name="sgv">
+<area shape="rect" id="node2" href="$structprodutos.html" title="produtos" alt="" coords="5,5,77,32"/>
+<area shape="rect" id="node3" href="$structclientes.html" title="clientes" alt="" coords="101,5,168,32"/>
+<area shape="rect" id="node4" href="$structfilial.html" title="Estrutura que guarda os dados das diferentes filiais. " alt="" coords="192,5,237,32"/>
+<area shape="rect" id="node5" href="$structfaturacao.html" title="Estrutura que guarda os dados da faturação. " alt="" coords="262,5,338,32"/>
+</map>
