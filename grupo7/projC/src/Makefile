@@ -23,3 +23,7 @@ $(OBJDIR)/%.o: %.c
 clean:
 	rm $(OBJS)
 	rm program
+
+glib:
+	sudo apt-get install libperl-dev
+	sudo apt-get install libgtk2.0-dev
